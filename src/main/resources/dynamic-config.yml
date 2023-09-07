@@ -1,0 +1,4 @@
+app:
+  dynamic:
+    yaml:
+      dynamicValue: "yaml.V1"

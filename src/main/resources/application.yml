@@ -1,0 +1,4 @@
+app:
+  dynamic:
+    propFileName: dynamic-config.properties
+    yamlFileName: dynamic-config.yaml
